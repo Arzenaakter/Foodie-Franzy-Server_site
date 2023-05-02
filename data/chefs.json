@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "chefPicture": "https://img.freepik.com/premium-photo/serious-male-chef-restaurant-uniform-with-vote-insignia-chest-pointing-you-while-standing-against-stars-stripes-flag_274679-16284.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+      "chefName": "John Smith",
+      "yearsOfExperience": 12,
+      "numRecipes": 25,
+      "likes": 500,
+      "viewRecipesButton": "https://example.com/chef1/recipes",
+      "shortBio": "Chef John Smith has been cooking American cuisine for over a decade, and has a passion for creating delicious comfort food recipes that are both satisfying and easy to make."
+    },
+    {
+      "id": 2,
+      "chefPicture": "https://img.freepik.com/premium-photo/smiling-young-beautiful-girl-chef-uniform-points_141793-127085.jpg?size=626&ext=jpg",
+      "chefName": "Sarah Johnson",
+      "yearsOfExperience": 8,
+      "numRecipes": 15,
+      "likes": 300,
+      "viewRecipesButton": "https://example.com/chef2/recipes",
+      "shortBio": "Chef Sarah Johnson specializes in classic American dishes with a modern twist, and loves experimenting with new flavors and ingredients to create unique and memorable meals."
+    },
+    {
+      "id": 3,
+      "chefPicture": "https://img.freepik.com/free-photo/young-confident-afro-american-cook-chef-uniform-holds-potatoes-with-both-hands-isolated-orange-background-with-copy-space_141793-34957.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+      "chefName": "David Lee",
+      "yearsOfExperience": 20,
+      "numRecipes": 50,
+      "likes": 1000,
+      "viewRecipesButton": "https://example.com/chef3/recipes",
+      "shortBio": "Chef David Lee is a seasoned veteran of the American food scene, with over two decades of experience creating some of the most beloved dishes in the country. He's passionate about using fresh, locally sourced ingredients to create healthy and delicious meals."
+    },
+    {
+      "id": 4,
+      "chefPicture": "https://t3.ftcdn.net/jpg/00/61/97/52/240_F_61975208_ZeFFfNv4Jt5ElAFaiXVlNdFR7qvcXUhw.jpg",
+      "chefName": "Emily Brown",
+      "yearsOfExperience": 5,
+      "numRecipes": 10,
+      "likes": 150,
+      "viewRecipesButton": "https://example.com/chef4/recipes",
+      "shortBio": "Chef Emily Brown is a rising star in the American food world, with a fresh and innovative approach to classic dishes. She loves to experiment with bold flavors and unusual ingredients to create dishes that are both surprising and delicious."
+    },
+    {
+      "id": 5,
+      "chefPicture": "https://t3.ftcdn.net/jpg/04/18/28/50/240_F_418285018_G0TDrqdXC5d9UZdSxBnTvdVqVLAsmnos.jpg",
+      "chefName": "Michael Rodriguez",
+      "yearsOfExperience": 15,
+      "numRecipes": 40,
+      "likes": 800,
+      "viewRecipesButton": "https://example.com/chef5/recipes",
+      "shortBio": "Chef Michael Rodriguez is a master of American barbecue, with a passion for slow-cooking meats to perfection. He's also an expert in classic Southern dishes like fried chicken, biscuits and gravy, and mac and cheese."
+    },
+    {
+      "id": 6,
+      "chefPicture": "https://t3.ftcdn.net/jpg/04/85/96/96/240_F_485969667_fLc0N6fIXRR25ADPziDfpS9xcX0oNKmG.jpg",
+      "chefName": "Karen Kim",
+      "yearsOfExperience": 10,
+      "numRecipes": 20,
+      "likes": 400,
+      "viewRecipesButton": "https://example.com/chef6/recipes",
+      "shortBio": "Chef Karen Kim is an expert in all-American comfort food, with a special focus on hearty soups, stews, and casseroles. She's also known for her delicious pies and baked goods"
+    }  
+
+]
