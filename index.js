@@ -3,7 +3,8 @@ const app = express();
 const cors = require('cors');
 
 const port = 5000;
-const chefs = require('./data/chefs.json')
+const chefs = require('./data/chefs.json');
+const recipes = require('./data/recipes.json');
 
 app.use(cors());
 
@@ -14,6 +15,22 @@ app.get('/',(req,res)=>{
 app.get('/chefs',(req,res)=>{
     res.send(chefs)
 })
+app.get('/recipes',(req,res)=>{
+    res.send(recipes)
+})
+
+
+app.get('/chefs/:id',(req,res)=>{
+    const id = parseInt(req.params.id);
+    console.log(id);
+    const chefRecipe = recipes.filter(recipe =>parseInt(recipe._id) === id);
+    res.send(chefRecipe)
+
+})
+
+
+
+
 
 app.listen(port , ()=>{
     console.log(`foodie franzy api on port : ${port}`);
