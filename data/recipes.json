@@ -13,12 +13,36 @@
                             "1/2 cup apple cider vinegar",
                             "1 tbsp garlic powder"
                              ],
-                    "recipe_img": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?w=740&t=st=1683047568~exp=1683048168~hmac=a55573b4a6f5845cedd273d422f3b82df2c9e9fa44312ee8d79f210fd5824753"
+                    "recipe_img": "https://img.freepik.com/free-photo/grilled-pork-salad-thai-food-with-herbs-spices-ingredients-tradition-northeast-food-delicious-with-fresh-vegetables-hot-spicy-slice-grilled-pork-menu-asian-food-grilled-pork-with-spicy-dip_1150-44933.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+                    "about_food": "BBQ pulled pork is a popular dish made by slow-cooking, shredding, and marinating pork in a flavorful barbecue sauce. It can be served on a sandwich bun with coleslaw or on its own with a side of baked beans or macaroni and cheese. BBQ pulled pork is a staple of Southern cuisine and is enjoyed worldwide."
             
             
         
             
                   },
+                  {
+                    "_id": "e9c17d73293a4c56b0b5d5c5e5a0a48f",
+                    "recipe_name": "Texas Chili",
+                    "cooking_method": "Brown the beef and onion in a large pot. Add the garlic and cook for another minute. Add the remaining ingredients and bring to a boil. Reduce heat and simmer for at least 2 hours, stirring occasionally. Serve with shredded cheese and a dollop of sour cream.",
+                    "rating": 4.8,
+                    "ingredients": [
+                        "2 lbs beef chuck roast, cubed",
+                        "1 onion, chopped",
+                        "4 cloves garlic, minced",
+                        "2 cups beef broth",
+                        "2 cans diced tomatoes",
+                        "2 cans kidney beans, drained and rinsed",
+                        "3 tbsp chili powder",
+                        "1 tbsp cumin",
+                        "1 tsp paprika",
+                        "1/2 tsp cayenne pepper",
+                        "1 tsp salt",
+                        "1/2 tsp black pepper"
+                    ],
+                    "recipe_img": "https://img.freepik.com/free-photo/chili-con-carne-mexican-chili-with-minced-beef-beans-red-hot-peppers-vegetables-served-baked-potato-top-view_2829-11488.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+                    "about_food": "Texas chili is a hearty and flavorful dish that originated in the Southwest United States. It is made with beef, beans, and a blend of spices that give it a spicy kick. Texas chili is typically served with shredded cheese, sour cream, and a side of cornbread. It's the perfect comfort food on a cold day!"
+                },
+                
             
             
             {
@@ -33,12 +57,36 @@
                   "1/2 cup brown sugar",
                   "1 tbsp garlic powder"
                 ],
-                "recipe_img": "https://img.freepik.com/premium-photo/penne-pasta-tomato-sauce-with-meat-tomatoes-decorated-with-pea-sprouts-dark-table_2829-3412.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
+                "recipe_img": "https://img.freepik.com/free-photo/top-view-roasted-pork-steak-rustic-pan_181624-33910.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+                "about_food":"Slow Cooker BBQ Pulled Pork is a delicious and easy-to-make dish that involves marinating pork in a barbecue sauce and cooking it slowly in a crockpot until it becomes tender and juicy. The result is a flavorful and tender meat that can be served on buns, tacos, or on its own. Slow Cooker BBQ Pulled Pork is a perfect option for busy weeknights or gatherings, as it can be prepared ahead of time and left to cook while you attend to other things. "
             
             
             
             
               },
+              {
+                "_id": "a9e34571f47b4f6aa99dc6c5012c6473",
+                "recipe_name": "Chicago Deep Dish Pizza",
+                "cooking_method": "Preheat oven to 425°F. Grease a 9-inch deep dish pie pan with olive oil. Roll out the pizza dough and press it into the prepared pan, making sure it covers the bottom and the sides. Layer the mozzarella cheese, sausage, and pepperoni in the crust. In a bowl, mix together the crushed tomatoes, oregano, basil, garlic powder, salt, and pepper. Pour the tomato mixture over the cheese and meat. Bake for 25-30 minutes, or until the crust is golden brown and the cheese is bubbly. Let cool for a few minutes before slicing and serving.",
+                "rating": 4.9,
+                "ingredients": [
+                    "1 lb pizza dough",
+                    "2 cups shredded mozzarella cheese",
+                    "1/2 lb cooked Italian sausage",
+                    "1/2 lb pepperoni slices",
+                    "1 can crushed tomatoes",
+                    "1 tsp dried oregano",
+                    "1 tsp dried basil",
+                    "1 tsp garlic powder",
+                    "1/2 tsp salt",
+                    "1/4 tsp black pepper",
+                    "2 tbsp olive oil"
+                ],
+                "recipe_img": "https://img.freepik.com/free-photo/pizza-with-mushrooms-olives-basil-leaves_140725-8003.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+
+                "about_food": "Chicago deep dish pizza is a popular pizza style that originated in Chicago, Illinois. It is known for its deep crust that is typically two to three inches tall and filled with cheese, meat, and sauce. The pizza is cooked in a deep dish pan and often takes longer to bake than traditional pizzas. Chicago deep dish pizza is a favorite among pizza lovers and is often enjoyed with a cold beer."
+            },
+            
             
             {
                 "_id": "f69a695f037cd9484cecaea37ca71011",
@@ -52,7 +100,9 @@
                   "1/2 cup brown sugar",
                   "1 tbsp garlic powder"
                 ],
-                "recipe_img": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
+                "recipe_img": "https://img.freepik.com/free-photo/cantonese-style-cooking-claypot-rice-with-waxed-meats_1205-10541.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+
+                "about_food":"Instant Pot BBQ Pulled Pork is a quick and easy way to make this popular dish. The Instant Pot pressure cooker cooks the pork in a fraction of the time it would take in a slow cooker, but still yields tender and juicy meat. Simply marinate the pork in a barbecue sauce, add it to the Instant Pot with some water, and cook for a short amount of time. The result is a flavorful and tender meat that can be served on buns, tacos, or on its own. Instant Pot BBQ Pulled Pork is a great option for those who want the taste of slow-cooked meat in a shorter amount of time."
             
             
             
@@ -72,29 +122,35 @@
                   "1/2 cup brown sugar",
                   "1 tbsp garlic powder"
                 ],
-             "recipe_img": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
+             "recipe_img": "https://img.freepik.com/free-photo/top-view-fried-meat-with-vegetables-brown-wooden-desk-food-meal-meat-fry_140725-28150.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+
+             "about_food":"Smoked BBQ Pulled Pork is a delicious and flavorful dish that is made by slow-cooking pork in a smoker until it becomes tender and juicy. The pork is typically coated in a dry rub and smoked for several hours over wood chips, which imparts a smoky flavor to the meat. Once the pork is cooked, it is shredded and mixed with a barbecue sauce before being served. Smoked BBQ Pulled Pork is a popular dish at outdoor gatherings and barbecues, and it is often served with coleslaw and baked beans. The smoky flavor of the pork, combined with the tangy sweetness of the barbecue sauce, makes for a delicious and satisfying meal."
             
              
             
             },
             {
-                     "_id": "11468ed61aee84de492a8b04158a22f9",
-                 "recipe_name": "BBQ Pulled Pork",
-                 "cooking_method": "Rub pork shoulder with garlic powder and place in a slow cooker. Mix BBQ sauce, brown sugar, and apple cider vinegar in a bowl and pour over pork. Cook on low for 8 hours. Shred pork with a fork and mix with remaining sauce.",
-                     "rating": 4.7,
-                    "ingredients":[
-                            "3 lbs pork shoulder",
-                            "1 cup BBQ sauce",
-                            "1/2 cup brown sugar",
-                            "1/2 cup apple cider vinegar",
-                            "1 tbsp garlic powder"
-                             ],
-                    "recipe_img": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
+                "_id": "f38bc357b19e40e88dbf7d69d96c1e38",
+                "recipe_name": "Shrimp and Grits",
+                "cooking_method": "In a saucepan, bring the water and salt to a boil. Gradually whisk in the grits and cook, stirring frequently, for 20-25 minutes or until thickened. Stir in the butter and cheese until melted. In a large skillet, cook the bacon over medium heat until crisp. Remove the bacon with a slotted spoon and drain on a paper towel. In the same skillet, cook the onion and garlic in the bacon grease until softened. Add the shrimp and cook until pink, about 3-4 minutes. Stir in the bacon, lemon juice, and hot sauce. Spoon the grits into a bowl and top with the shrimp mixture.",
+                "rating": 4.8,
+                "ingredients": [
+                    "1 cup stone-ground grits",
+                    "4 cups water",
+                    "1 tsp salt",
+                    "2 tbsp unsalted butter",
+                    "1/2 cup grated cheddar cheese",
+                    "4 slices bacon, chopped",
+                    "1/2 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 lb large shrimp, peeled and deveined",
+                    "2 tbsp lemon juice",
+                    "1 tbsp hot sauce"
+                ],
+                "recipe_img": "https://img.freepik.com/free-photo/grilled-prawns-lemon-sauce-with-tomato-lettuce-greens-carrot-side-view_141793-3143.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+                "about_food": "Shrimp and grits is a classic dish from the Southern United States. The dish consists of creamy, buttery grits topped with sautéed shrimp in a flavorful sauce made from bacon, onion, garlic, lemon juice, and hot sauce. Shrimp and grits is a versatile dish that can be served for breakfast, brunch, or dinner, and is a favorite among seafood lovers."
+            },
             
-            
-             
-            
-                  },
             
               {
                 "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
@@ -108,7 +164,9 @@
                   "1/2 cup brown sugar",
                   "1 tbsp garlic powder"
                 ],
-                "recipe_img": "https://img.freepik.com/free-photo/double-hamburger-isolated-white-background-fresh-burger-fast-food-with-beef-cream-cheese_90220-1192.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
+                "recipe_img": "https://img.freepik.com/free-photo/wooden-board-with-fish-grills-herbs-it_114579-2211.jpg?size=626&ext=jpg&ga=GA1.2.1435761111.1680237800&semt=ais",
+
+                "about_food":"Oven-baked BBQ pulled pork is a tasty and easy-to-make dish that involves marinating pork in a barbecue sauce and baking it in the oven until it becomes tender and juicy. The pork is typically covered in foil to keep it moist, and it can be cooked for several hours until it is fully cooked through. Once the pork is cooked, it is shredded and mixed with more barbecue sauce before being served. Oven-baked BBQ pulled pork is a great option for those who don't have a smoker or slow cooker, but still want to enjoy the flavors of slow-cooked meat. It can be served on a bun, on its own, or with a side of coleslaw or baked beans. "
              
             
             
@@ -128,30 +186,30 @@
                   "1/2 cup apple cider vinegar",
                   "1 tbsp garlic powder"
                 ],
-                "recipe_img": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
-            
-            
-            
+                "recipe_img": "https://img.freepik.com/free-photo/chinese-food-braised-pork-knuckle_1205-10559.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+
+                "about_food":"Honey BBQ pulled pork is a sweet and savory version of the classic dish. The pork is typically marinated in a mixture of barbecue sauce, honey, and spices, which gives it a delicious and unique flavor. The pork can be cooked in a slow cooker or oven until it becomes tender and juicy, and then it is shredded and mixed with more honey barbecue sauce before being served. Honey BBQ pulled pork is often served on a sandwich bun with coleslaw or pickles, but it can also be served on its own or with a side of macaroni and cheese. The sweet and tangy flavor of the honey barbecue sauce makes for a delicious and satisfying meal."
+        
             
               },
             
             
-            {
-              "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
-                 "recipe_name": "BBQ Pulled Pork",
-                 "cooking_method": "Rub pork shoulder with garlic powder and place in a slow cooker. Mix BBQ sauce, brown sugar, and apple cider vinegar in a bowl and pour over pork. Cook on low for 8 hours. Shred pork with a fork and mix with remaining sauce.",
-                     "rating": 4.7,
-                    "ingredients":[
-                            "3 lbs pork shoulder",
-                            "1 cup BBQ sauce",
-                            "1/2 cup brown sugar",
-                            "1/2 cup apple cider vinegar",
-                            "1 tbsp garlic powder"
-                             ],
-                    "recipe_img": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
-            
-            
-            
+              {
+                "_id": "3b3c0b1578d04a4f9deef4f0e32bde67",
+                "recipe_name": "Buffalo Wings",
+                "cooking_method": "Preheat the oven to 450°F. Line a baking sheet with parchment paper. In a large bowl, whisk together the melted butter, hot sauce, vinegar, Worcestershire sauce, and garlic powder. Add the chicken wings and toss until evenly coated. Arrange the wings on the prepared baking sheet and bake for 25-30 minutes, or until golden brown and crispy. Serve with celery sticks and blue cheese dressing.",
+                "rating": 4.9,
+                "ingredients": [
+                    "2 lbs chicken wings",
+                    "1/2 cup unsalted butter, melted",
+                    "1/2 cup hot sauce",
+                    "1 tbsp apple cider vinegar",
+                    "1 tsp Worcestershire sauce",
+                    "1 tsp garlic powder",
+                    "Celery sticks and blue cheese dressing, for serving"
+                ],
+                "recipe_img": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style_2829-10160.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+                "about_food": "Buffalo wings are a popular dish made from chicken wings coated in a spicy sauce made with hot sauce, butter, vinegar, and spices. The dish originated in Buffalo, New York and is now enjoyed all over the United States and beyond. Buffalo wings are often served with celery sticks and blue cheese dressing, and are a favorite snack food for sports events and parties."
             },
             
             {
@@ -166,183 +224,15 @@
                   "1/2 cup apple cider vinegar",
                   "1 tbsp garlic powder"
                 ],
-                "recipe_img": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?w=740&t=st=1683047568~exp=1683048168~hmac=a55573b4a6f5845cedd273d422f3b82df2c9e9fa44312ee8d79f210fd5824753"
-            
-            
-            
-              },
-            
-            
-             {
-                "_id": "f06f8cc035b04bd1158e4198281915a3",
-                "recipe_name": "Honey BBQ Pulled Pork",
-                "cooking_method": "Rub pork shoulder with garlic powder and place in a slow cooker. Mix BBQ sauce, honey, and apple cider vinegar in a bowl and pour over pork. Cook on low for 8 hours. Shred pork with a fork and mix with remaining sauce.",
-                "rating": 4.5,
-                "ingredients": [
-                  "3 lbs pork shoulder",
-                  "1 cup BBQ sauce",
-                  "1/2 cup honey",
-                  "1/2 cup apple cider vinegar",
-                  "1 tbsp garlic powder"
-                ],
-                "recipe_img": "https://img.freepik.com/premium-photo/fresh-tasty-homemade-burger-wooden-table_147620-1307.jpg?size=626&ext=jpg&ga=GA1.2.1435761111.1680237800&semt=sph"
-            
-            
-            
-            
-            
-              },
-            
-            {
-                "_id": "f06f8cc035b04bd1158e4198281915a4",
-                "recipe_name": "Maple BBQ Pulled Pork",
-                "cooking_method": "Rub pork shoulder with garlic powder and place in a slow cooker. Mix BBQ sauce, maple syrup, and apple cider vinegar in a bowl and pour over pork. Cook on low for 8 hours. Shred pork with a fork and mix with remaining sauce.",
-                "rating": 4.8,
-                "ingredients": [
-                  "3 lbs pork shoulder",
-                  "1 cup BBQ sauce",
-                  "1/2 cup maple syrup",
-                  "1/2 cup apple cider vinegar",
-                  "1 tbsp garlic powder"
-                ],
-                 "recipe_img": "https://img.freepik.com/free-photo/tortilla-wrap-with-falafel-fresh-salad-vegan-tacos-vegetarian-healthy-food_2829-6193.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
-            
-            
-            
-            
-            },
-            
-            {
-                "_id":"cd2b53655737cc4077542baea9f8f75d",
-                "recipe_name": "Smoky BBQ Pulled Pork",
-                "cooking_method": "Rub pork shoulder with smoked paprika and place in a slow cooker. Mix BBQ sauce, liquid smoke, and apple cider vinegar in a bowl and pour over pork. Cook on low for 8 hours. Shred pork with a fork and mix with remaining sauce.",
-                "rating": 4.9,
-                "ingredients": [
-                  "3 lbs pork shoulder",
-                  "1 cup BBQ sauce",
-                  "1 tbsp liquid smoke",
-                  "1/2 cup apple cider vinegar",
-                  "1 tbsp smoked paprika"
-                ],
-                "recipe_img": "https://img.freepik.com/premium-photo/penne-pasta-tomato-sauce-with-meat-tomatoes-decorated-with-pea-sprouts-dark-table_2829-3412.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
-           
-            
-            
-              },
-            
-            
-        
-              {
-                "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
-                "recipe_name": "Spicy BBQ Pulled Pork",
-                "cooking_method": "Rub pork shoulder with chili powder and cumin and place in a slow cooker. Mix BBQ sauce, hot sauce, and apple cider vinegar in a bowl and pour over pork. Cook on low for 8 hours. Shred pork with a fork and mix with remaining sauce.",
-                "rating": 4.3,
-                "ingredients": [
-                  "3 lbs pork shoulder",
-                  "1 cup BBQ sauce",
-                  "1/4 cup hot sauce",
-                  "1/2 cup apple cider vinegar",
-                  "1 tbsp chili powder",
-                  "1 tbsp cumin"
-                ],
-                "recipe_img": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
-            
-            
-              
-            
-              },
-             {
-                "_id": "7c4dfea0fafddc813673282a428429b7",
-                "recipe_name": "Asian BBQ Pulled Pork",
-                "cooking_method": "Rub pork shoulder with five spice powder and place in a slow cooker. Mix hoisin sauce, soy sauce, and rice vinegar in a bowl and pour over pork. Cook on low for 8 hours. Shred pork with a fork and mix with remaining sauce.",
-                "rating": 4.7,
-                "ingredients": [
-                  "3 lbs pork shoulder",
-                  "1/2 cup hoisin sauce",
-                  "1/4 cup soy sauce",
-                  "1/4 cup rice vinegar",
-                  "1 tbsp five spice powder"
-                ],
-                "recipe_img": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
-            
-            
-                
-                
-              },
-            {
-             "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
-                "recipe_name": "Carolina-Style BBQ Pulled Pork",
-                "cooking_method": "Rub pork shoulder with mustard and paprika and place in a slow cooker. Mix BBQ sauce, yellow mustard, and apple cider vinegar in a bowl and pour over pork. Cook on low for 8 hours. Shred pork with a fork and mix with remaining sauce.",
-                "rating": 4.2,
-                "ingredients": [
-                  "3 lbs pork shoulder",
-                  "1 cup BBQ sauce",
-                  "1/2 cup yellow mustard",
-                  "1/2 cup apple cider vinegar",
-                  "1 tbsp paprika"
-            ],
-                "recipe_img": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
-            
-            
-            
-            
-            },
-            {
-                "_id": "df11ff9feefc37613cc3a4486ce02151",
-                "recipe_name": "Coca-Cola BBQ Pulled Pork",
-                "cooking_method": "Rub pork shoulder with garlic powder and place in a slow cooker. Mix BBQ sauce, Coca-Cola, and apple cider vinegar in a bowl and pour over pork. Cook on low for 8 hours. Shred pork with a fork and mix with remaining sauce.",
-                "rating": 4.4,
-                "ingredients": [
-                  "3 lbs pork shoulder",
-                  "1 cup BBQ sauce",
-                  "1 cup Coca-Cola",
-                  "1/2 cup apple cider vinegar",
-                  "1 tbsp garlic powder"
-                ],
-                "recipe_img": "https://img.freepik.com/free-photo/double-hamburger-isolated-white-background-fresh-burger-fast-food-with-beef-cream-cheese_90220-1192.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
-            
-            
-                
-            
-              },
-            {
-                     "_id": "919db97c34e0778b387dd40cdfa08130",
-                 "recipe_name": "BBQ Pulled Pork",
-                 "cooking_method": "Rub pork shoulder with garlic powder and place in a slow cooker. Mix BBQ sauce, brown sugar, and apple cider vinegar in a bowl and pour over pork. Cook on low for 8 hours. Shred pork with a fork and mix with remaining sauce.",
-                     "rating": 4.7,
-                    "ingredients":[
-                            "3 lbs pork shoulder",
-                            "1 cup BBQ sauce",
-                            "1/2 cup brown sugar",
-                            "1/2 cup apple cider vinegar",
-                            "1 tbsp garlic powder"
-                             ],
-                    "recipe_img": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
-            
-            
-            
-                  },
-                  
-             {
-                "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
-                "recipe_name": "Honey BBQ Pulled Pork",
-                "cooking_method": "Rub pork shoulder with garlic powder and place in a slow cooker. Mix BBQ sauce, honey, and apple cider vinegar in a bowl and pour over pork. Cook on low for 8 hours. Shred pork with a fork and mix with remaining sauce.",
-                "rating": 4.5,
-                "ingredients": [
-                  "3 lbs pork shoulder",
-                  "1 cup BBQ sauce",
-                  "1/2 cup honey",
-                  "1/2 cup apple cider vinegar",
-                  "1 tbsp garlic powder"
-                ],
-                "recipe_img": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=sph"
-            
-                 
-            
-            
+                "recipe_img": "https://img.freepik.com/free-photo/beef-steak-with-barbecue-bbq-sauce-herbs-onion-salad-grilled-pepper-tomato-wooden-plate_114579-8.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+
+                "about_food":"Coca-Cola BBQ pulled pork is a unique twist on the classic dish that involves marinating the pork in a mixture of Coca-Cola and barbecue sauce. The pork is slow-cooked until it becomes tender and juicy, and then it is shredded and mixed with more Coca-Cola barbecue sauce before being served. The Coca-Cola adds a sweet and tangy flavor to the pork that complements the smoky flavors of the barbecue sauce. Coca-Cola BBQ pulled pork is often served on a sandwich bun with coleslaw or pickles, but it can also be served on its own or with a side of macaroni and cheese. This dish is a perfect option for those who want to try something new and delicious with their pulled pork."
+                   
               }
             
             
+        
+        
             
             
             ]
