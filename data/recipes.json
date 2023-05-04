@@ -30,16 +30,11 @@
                         "1 onion, chopped",
                         "4 cloves garlic, minced",
                         "2 cups beef broth",
-                        "2 cans diced tomatoes",
-                        "2 cans kidney beans, drained and rinsed",
-                        "3 tbsp chili powder",
-                        "1 tbsp cumin",
-                        "1 tsp paprika",
-                        "1/2 tsp cayenne pepper",
-                        "1 tsp salt",
-                        "1/2 tsp black pepper"
+                        "2 cans diced tomatoes"
+                        
                     ],
-                    "recipe_img": "https://img.freepik.com/free-photo/chili-con-carne-mexican-chili-with-minced-beef-beans-red-hot-peppers-vegetables-served-baked-potato-top-view_2829-11488.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+                    "recipe_img": "https://img.freepik.com/free-photo/tasty-mexican-food-with-fresh-avocado-sauce-burittos-tacos-chilli-con-carne-wooden-table_1220-7062.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+
                     "about_food": "Texas chili is a hearty and flavorful dish that originated in the Southwest United States. It is made with beef, beans, and a blend of spices that give it a spicy kick. Texas chili is typically served with shredded cheese, sour cream, and a side of cornbread. It's the perfect comfort food on a cold day!"
                 },
                 
@@ -74,13 +69,8 @@
                     "2 cups shredded mozzarella cheese",
                     "1/2 lb cooked Italian sausage",
                     "1/2 lb pepperoni slices",
-                    "1 can crushed tomatoes",
-                    "1 tsp dried oregano",
-                    "1 tsp dried basil",
-                    "1 tsp garlic powder",
-                    "1/2 tsp salt",
-                    "1/4 tsp black pepper",
-                    "2 tbsp olive oil"
+                    "1 can crushed tomatoes"
+                    
                 ],
                 "recipe_img": "https://img.freepik.com/free-photo/pizza-with-mushrooms-olives-basil-leaves_140725-8003.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
 
@@ -122,7 +112,7 @@
                   "1/2 cup brown sugar",
                   "1 tbsp garlic powder"
                 ],
-             "recipe_img": "https://img.freepik.com/free-photo/top-view-fried-meat-with-vegetables-brown-wooden-desk-food-meal-meat-fry_140725-28150.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+             "recipe_img": "https://img.freepik.com/free-photo/baked-pork-with-spices-herbs_1220-5245.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
 
              "about_food":"Smoked BBQ Pulled Pork is a delicious and flavorful dish that is made by slow-cooking pork in a smoker until it becomes tender and juicy. The pork is typically coated in a dry rub and smoked for several hours over wood chips, which imparts a smoky flavor to the meat. Once the pork is cooked, it is shredded and mixed with a barbecue sauce before being served. Smoked BBQ Pulled Pork is a popular dish at outdoor gatherings and barbecues, and it is often served with coleslaw and baked beans. The smoky flavor of the pork, combined with the tangy sweetness of the barbecue sauce, makes for a delicious and satisfying meal."
             
@@ -139,13 +129,8 @@
                     "4 cups water",
                     "1 tsp salt",
                     "2 tbsp unsalted butter",
-                    "1/2 cup grated cheddar cheese",
-                    "4 slices bacon, chopped",
-                    "1/2 onion, chopped",
-                    "2 garlic cloves, minced",
-                    "1 lb large shrimp, peeled and deveined",
-                    "2 tbsp lemon juice",
-                    "1 tbsp hot sauce"
+                    "1/2 cup grated cheddar cheese"
+                    
                 ],
                 "recipe_img": "https://img.freepik.com/free-photo/grilled-prawns-lemon-sauce-with-tomato-lettuce-greens-carrot-side-view_141793-3143.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
                 "about_food": "Shrimp and grits is a classic dish from the Southern United States. The dish consists of creamy, buttery grits topped with sautéed shrimp in a flavorful sauce made from bacon, onion, garlic, lemon juice, and hot sauce. Shrimp and grits is a versatile dish that can be served for breakfast, brunch, or dinner, and is a favorite among seafood lovers."
@@ -197,16 +182,15 @@
               {
                 "_id": "3b3c0b1578d04a4f9deef4f0e32bde67",
                 "recipe_name": "Buffalo Wings",
-                "cooking_method": "Preheat the oven to 450°F. Line a baking sheet with parchment paper. In a large bowl, whisk together the melted butter, hot sauce, vinegar, Worcestershire sauce, and garlic powder. Add the chicken wings and toss until evenly coated. Arrange the wings on the prepared baking sheet and bake for 25-30 minutes, or until golden brown and crispy. Serve with celery sticks and blue cheese dressing.",
+                "cooking_method": "Preheat the oven to 450°F. Line a baking sheet with parchment paper. In a large bowl, whisk together the melted butter, hot sauce, vinegar, Worcestershire sauce, and garlic powder. Add the chicken wings and toss until evenly coated. Arrange the wings on the prepared baking sheet and bake for 25-30 minutes.",
                 "rating": 4.9,
                 "ingredients": [
                     "2 lbs chicken wings",
                     "1/2 cup unsalted butter, melted",
                     "1/2 cup hot sauce",
                     "1 tbsp apple cider vinegar",
-                    "1 tsp Worcestershire sauce",
-                    "1 tsp garlic powder",
-                    "Celery sticks and blue cheese dressing, for serving"
+                    "1 tsp Worcestershire sauce"
+                   
                 ],
                 "recipe_img": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style_2829-10160.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
                 "about_food": "Buffalo wings are a popular dish made from chicken wings coated in a spicy sauce made with hot sauce, butter, vinegar, and spices. The dish originated in Buffalo, New York and is now enjoyed all over the United States and beyond. Buffalo wings are often served with celery sticks and blue cheese dressing, and are a favorite snack food for sports events and parties."
@@ -224,7 +208,7 @@
                   "1/2 cup apple cider vinegar",
                   "1 tbsp garlic powder"
                 ],
-                "recipe_img": "https://img.freepik.com/free-photo/beef-steak-with-barbecue-bbq-sauce-herbs-onion-salad-grilled-pepper-tomato-wooden-plate_114579-8.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+                "recipe_img": "https://img.freepik.com/free-photo/barbecue-beef-kebabs-with-green-pepper_1205-11728.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
 
                 "about_food":"Coca-Cola BBQ pulled pork is a unique twist on the classic dish that involves marinating the pork in a mixture of Coca-Cola and barbecue sauce. The pork is slow-cooked until it becomes tender and juicy, and then it is shredded and mixed with more Coca-Cola barbecue sauce before being served. The Coca-Cola adds a sweet and tangy flavor to the pork that complements the smoky flavors of the barbecue sauce. Coca-Cola BBQ pulled pork is often served on a sandwich bun with coleslaw or pickles, but it can also be served on its own or with a side of macaroni and cheese. This dish is a perfect option for those who want to try something new and delicious with their pulled pork."
                    
