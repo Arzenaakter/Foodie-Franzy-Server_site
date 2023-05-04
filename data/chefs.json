@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://img.freepik.com/premium-photo/serious-male-chef-restaurant-uniform-with-vote-insignia-chest-pointing-you-while-standing-against-stars-stripes-flag_274679-16284.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+    "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.1435761111.1680237800&semt=ais",
     "chefName": "John Smith",
     "yearsOfExperience": 12,
     "numRecipes": 25,
@@ -76,7 +76,7 @@
 
   {
     "id": 2,
-    "chefPicture": "https://img.freepik.com/premium-photo/smiling-young-beautiful-girl-chef-uniform-points_141793-127085.jpg?size=626&ext=jpg",
+    "chefPicture": "https://img.freepik.com/free-photo/female-chef-kitchen-holding-plate-steak_23-2149720771.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
     "chefName": "Sarah Johnson",
     "yearsOfExperience": 8,
     "numRecipes": 15,
@@ -145,7 +145,7 @@
 
   {
     "id": 3,
-    "chefPicture": "https://img.freepik.com/free-photo/young-confident-afro-american-cook-chef-uniform-holds-potatoes-with-both-hands-isolated-orange-background-with-copy-space_141793-34957.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
+    "chefPicture": "https://img.freepik.com/free-photo/young-pleased-afro-american-cook-chef-uniform-holds-red-pepper-salad-isolated-green-wall_141793-33333.jpg?size=626&ext=jpg&ga=GA1.1.1435761111.1680237800&semt=ais",
     "chefName": "David Lee",
     "yearsOfExperience": 20,
     "numRecipes": 50,
